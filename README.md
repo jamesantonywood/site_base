@@ -3,6 +3,9 @@
 Development of a new site base, I want to implement some of the practices I currently find useful with gulp.js but with more up to date tools.
 
 JavaScript compilation.
+    - multiple outputs for page specific scripts
+    - module dependencies? - if X, Y, Z is on a page bundle the required scripts.
+
 Sass & CSS - easy to switch between.
 Images and other static assets.
 Data & JSON.
